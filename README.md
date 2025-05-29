@@ -13,7 +13,7 @@ chmod +x git-profiles.sh
 mv the script into your /usr/bin/git-profile
 
 ```sh
-cp /path/to/git-profiles.sh /usr/bin/git-profile
+mv /path/to/git-profiles.sh /usr/bin/git-profile
 ```
 
 Create 2 configs for work and personal in your .ssh directory
